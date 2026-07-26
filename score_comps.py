@@ -67,7 +67,7 @@ DIMENSIONS = {
             "'we will')."
         ),
     },
-    "potential": {
+    "growth_potential": {
         "weight": 0.10,
         "label": "Potential",
         "rubric": (
