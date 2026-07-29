@@ -10,6 +10,8 @@ Product / Technology 	15%	Assesses the differentiation and defensibility of the 
 Competitive Environment	10%	Assesses evidence of competitive positioning and barriers to entry. Higher scores are assigned to firms that identify competitors, demonstrate competitive advantages, or show barriers such as network effects, regulatory advantages. Lower scores are assigned where competition is not addressed or differentiation is unclear.
 Marketing / Sales  	10%	Assesses evidence of market traction and commercial execution. Higher scores are assigned to firms with customer evidence, partnerships, revenue indicators, awards, media recognition, or established sales channels. Lower scores are assigned where evidence is limited.
 Growth Potential	10%	Assesses signals of future growth and investment potential. Higher scores are assigned to firms with evidence of funding activity, future financing plans, growth ambitions, scalability, or international expansion. Lower scores are assigned where future growth pathways are unclear or not demonstrated.
+
+
 <img width="486" height="462" alt="image" src="https://github.com/user-attachments/assets/08c4dc08-b5a8-4874-8e01-2f37f0eb00bc" />
 
 
