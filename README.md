@@ -1,4 +1,6 @@
 Scoring Code
+
+
 Investment readiness was operationalised using the Payne scorecard dimensions and weights set out in Table 1. For each firm, the text disclosed on its FinTech Scotland directory profile, comprising the company overview, company story and team biographies, was assessed against each of the six dimensions and scored from 0 to 100. Assessment was carried out using a large language model applied through a standardised rubric, with an identical prompt structure for every firm.
 
 Each firm was scored on the six dimensions of the Payne scorecard framework.
