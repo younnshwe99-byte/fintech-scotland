@@ -12,6 +12,6 @@ Marketing / Sales  	10%	Assesses evidence of market traction and commercial exec
 Growth Potential	10%	Assesses signals of future growth and investment potential. Higher scores are assigned to firms with evidence of funding activity, future financing plans, growth ambitions, scalability, or international expansion. Lower scores are assigned where future growth pathways are unclear or not demonstrated.
 
 
-<img width="486" height="462" alt="image" src="https://github.com/user-attachments/assets/08c4dc08-b5a8-4874-8e01-2f37f0eb00bc" />
+
 
 
